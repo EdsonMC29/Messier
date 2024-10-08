@@ -1185,6 +1185,48 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 1313184294}
     m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 5180279930533395779, guid: 9ea3c3bd7f7fe1043a0bb52ecda39ce6, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 0}
+    - targetCorrespondingSourceObject: {fileID: 5956130718954039297, guid: 9ea3c3bd7f7fe1043a0bb52ecda39ce6, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 0}
+    - targetCorrespondingSourceObject: {fileID: 3876804671819014611, guid: 9ea3c3bd7f7fe1043a0bb52ecda39ce6, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 0}
+    - targetCorrespondingSourceObject: {fileID: 6527313333463659060, guid: 9ea3c3bd7f7fe1043a0bb52ecda39ce6, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 0}
+    - targetCorrespondingSourceObject: {fileID: 6906042446320498096, guid: 9ea3c3bd7f7fe1043a0bb52ecda39ce6, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 0}
+    - targetCorrespondingSourceObject: {fileID: 5676963381706779911, guid: 9ea3c3bd7f7fe1043a0bb52ecda39ce6, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 0}
+    - targetCorrespondingSourceObject: {fileID: 8865307799012631646, guid: 9ea3c3bd7f7fe1043a0bb52ecda39ce6, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 0}
+    - targetCorrespondingSourceObject: {fileID: 8310240850484608568, guid: 9ea3c3bd7f7fe1043a0bb52ecda39ce6, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 0}
+    - targetCorrespondingSourceObject: {fileID: 6304862802621516215, guid: 9ea3c3bd7f7fe1043a0bb52ecda39ce6, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 0}
+    - targetCorrespondingSourceObject: {fileID: 8437003709218336490, guid: 9ea3c3bd7f7fe1043a0bb52ecda39ce6, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 0}
+    - targetCorrespondingSourceObject: {fileID: 8785153381001534626, guid: 9ea3c3bd7f7fe1043a0bb52ecda39ce6, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 0}
+    - targetCorrespondingSourceObject: {fileID: 941331984465656451, guid: 9ea3c3bd7f7fe1043a0bb52ecda39ce6, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 0}
+    - targetCorrespondingSourceObject: {fileID: 8827524989756136000, guid: 9ea3c3bd7f7fe1043a0bb52ecda39ce6, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 0}
+    - targetCorrespondingSourceObject: {fileID: 6004586985873604211, guid: 9ea3c3bd7f7fe1043a0bb52ecda39ce6, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 0}
     - targetCorrespondingSourceObject: {fileID: 7109981894118237631, guid: 9ea3c3bd7f7fe1043a0bb52ecda39ce6, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1141679173}
@@ -4296,7 +4338,8 @@ MonoBehaviour:
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b8f5aeb9c6de7614db2631011b869bc3, type: 2}
   m_sharedMaterial: {fileID: -5839354330806206608, guid: b8f5aeb9c6de7614db2631011b869bc3, type: 2}
-  m_fontSharedMaterials: []
+  m_fontSharedMaterials:
+  - {fileID: -5839354330806206608, guid: b8f5aeb9c6de7614db2631011b869bc3, type: 2}
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
@@ -5572,6 +5615,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 994424644}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -0.00000018287429}
+--- !u!4 &659862030 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7115514372195310189, guid: fb201b34921119e469e82d12fd963ae2, type: 3}
+  m_PrefabInstance: {fileID: 1937025080}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &660815833
 GameObject:
   m_ObjectHideFlags: 0
@@ -7176,11 +7224,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1047714918}
   m_LocalEulerAnglesHint: {x: 1.9434788, y: 91.70875, z: -1.8863816}
---- !u!4 &830957863 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 7115514372195310189, guid: fb201b34921119e469e82d12fd963ae2, type: 3}
-  m_PrefabInstance: {fileID: 1937025080}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &846525893
 GameObject:
   m_ObjectHideFlags: 0
@@ -7530,6 +7573,11 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: -1
   m_Mesh: {fileID: -651602593796044199, guid: 9821f61cd29cd1f4cb0ee51806a24535, type: 3}
+--- !u!4 &908203527 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7115514372195310189, guid: fb201b34921119e469e82d12fd963ae2, type: 3}
+  m_PrefabInstance: {fileID: 1632163221992278917}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &922172838
 GameObject:
   m_ObjectHideFlags: 0
@@ -7659,11 +7707,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1523890579}
   m_LocalEulerAnglesHint: {x: 0.0000005651476, y: 0.00000021344336, z: -0.00000018965545}
---- !u!4 &970044746 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 7115514372195310189, guid: fb201b34921119e469e82d12fd963ae2, type: 3}
-  m_PrefabInstance: {fileID: 1632163221992278917}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &971209694
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10587,7 +10630,8 @@ MonoBehaviour:
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b8f5aeb9c6de7614db2631011b869bc3, type: 2}
   m_sharedMaterial: {fileID: -5839354330806206608, guid: b8f5aeb9c6de7614db2631011b869bc3, type: 2}
-  m_fontSharedMaterials: []
+  m_fontSharedMaterials:
+  - {fileID: -5839354330806206608, guid: b8f5aeb9c6de7614db2631011b869bc3, type: 2}
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
@@ -19317,13 +19361,13 @@ PrefabInstance:
       addedObject: {fileID: 101153783}
     - targetCorrespondingSourceObject: {fileID: 5545149144574972019, guid: ea16c3c8c1688234fa81a4f39339bf1b, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 830957863}
+      addedObject: {fileID: 659862030}
     - targetCorrespondingSourceObject: {fileID: 9048238750646488156, guid: ea16c3c8c1688234fa81a4f39339bf1b, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1973357257}
     - targetCorrespondingSourceObject: {fileID: 9048238750646488156, guid: ea16c3c8c1688234fa81a4f39339bf1b, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 970044746}
+      addedObject: {fileID: 908203527}
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 1367575963433742180, guid: ea16c3c8c1688234fa81a4f39339bf1b, type: 3}
       insertIndex: -1

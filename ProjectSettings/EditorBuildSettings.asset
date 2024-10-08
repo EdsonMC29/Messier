@@ -4,7 +4,18 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuInicio.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Exoplaneta_GJ.unity
+    guid: 3c65ad26d9449f44a92cebcf7d2b0466
+  - enabled: 1
+    path: Assets/Scenes/Exoplaneta_marte.unity
+    guid: b117e96d1849b324fbbb577747991eeb
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: ce1186fcea7c2f74d89dcc5aab7612d9, type: 2}
+    com.unity.addressableassets: {fileID: 11400000, guid: b85f47d41f60c304181e26422f47549c, type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: 265012f54865d9a4b976c94f515f53e0, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f9b8fe4b7fd6cae4585ffa92578bd09a, type: 2}
